@@ -1,1 +1,2 @@
 # CSS-Mini-Project
+This is a mini project based on HTML and CSS by Apna College
